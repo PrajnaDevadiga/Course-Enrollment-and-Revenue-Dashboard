@@ -1,7 +1,6 @@
 # Course Enrollment & Revenue Dashboard
 
-This project processes course and enrollment CSV data into an enrollment report and course summary, then visualizes the results in an interactive **Streamlit** dashboard with charts built using **Plotly**.
-
+This project processes course and enrollment CSV data into an enrollment report and course summary, then visualizes the results in an interactive **Streamlit** dashboard with charts.
 ## What it does
 
 1. **`main.py`** — Reads course and enrollment files, applies business rules (valid course, valid date, payment outcome, capacity / waitlist), and writes:
