@@ -1,0 +1,6 @@
+course_id,course_name,available_seats,course_fee
+CR001,Python Programming,40,5000
+CR002,Data Science,25,12000
+CR003,Machine Learning,20,15000
+CR004,SQL Basics,50,4000
+CR005,Cloud Computing,15,18000

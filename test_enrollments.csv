@@ -1,0 +1,4 @@
+student_id,course_id,enrollment_date,payment_status
+S1,C102,2025-01-01,PAID
+S2,C102,2025-01-01,PAID
+S3,C102,2025-01-01,PAID

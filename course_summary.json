@@ -1,0 +1,37 @@
+{
+    "CR001": {
+        "course_name": "Python Programming",
+        "capacity": 40,
+        "enrolled": 3,
+        "remaining_seats": 37,
+        "revenue": 15000
+    },
+    "CR002": {
+        "course_name": "Data Science",
+        "capacity": 25,
+        "enrolled": 2,
+        "remaining_seats": 23,
+        "revenue": 24000
+    },
+    "CR003": {
+        "course_name": "Machine Learning",
+        "capacity": 20,
+        "enrolled": 1,
+        "remaining_seats": 19,
+        "revenue": 15000
+    },
+    "CR004": {
+        "course_name": "SQL Basics",
+        "capacity": 50,
+        "enrolled": 0,
+        "remaining_seats": 50,
+        "revenue": 0
+    },
+    "CR005": {
+        "course_name": "Cloud Computing",
+        "capacity": 15,
+        "enrolled": 0,
+        "remaining_seats": 15,
+        "revenue": 0
+    }
+}
